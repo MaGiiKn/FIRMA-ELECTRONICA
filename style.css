@@ -1,0 +1,66 @@
+.presentacion {
+    width: 500px;
+    height: 250px;
+    background-color: #C8AD76;
+    border: solid black;
+}
+
+.container{    
+    position: relative;
+    text-align: end;
+    background-color: #393B3C;
+    width: 70%;
+    height: 100%;
+    margin: 0px;
+    left: 30%;
+    border-bottom-left-radius: 110px;
+    border-top-left-radius: 110px;
+}
+
+.container h1{
+    margin: 0px 0px;
+    color: white; 
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.container h2{
+    margin: 0px 0px;
+    color: #C8AD76; 
+    font-family: 'Montserrat', sans-serif;
+    padding-right: 20px;
+}
+
+.datos ul li{
+    list-style: none;
+    color: white;
+    vertical-align: text-bottom;
+    padding-top: 10px;
+    padding-right: 20px ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+
+i{
+    font-size: 20px;
+}
+ 
+.windowsicon i{
+    position: absolute;
+    font-size: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    color: #35313A;
+}
+
+.htmlicon{
+    position: absolute;
+    
+    color: #35313A;
+
+}
+
+
+
